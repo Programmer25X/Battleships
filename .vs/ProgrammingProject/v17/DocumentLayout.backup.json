@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|c:\\users\\culli\\downloads\\programmingproject\\programmingproject\\programmingproject\\programmingproject\\programmingproject\\vscpugameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|solutionrelative:programmingproject\\vscpugameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\programmingproject\\helpmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|solutionrelative:programmingproject\\helpmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\programmingproject\\gamemodeselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|solutionrelative:programmingproject\\gamemodeselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|c:\\users\\culli\\downloads\\programmingproject\\programmingproject\\programmingproject\\programmingproject\\programmingproject\\gamemodeselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|solutionrelative:programmingproject\\gamemodeselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\programmingproject\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|solutionrelative:programmingproject\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|c:\\users\\culli\\downloads\\programmingproject\\programmingproject\\programmingproject\\programmingproject\\programmingproject\\helpmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|solutionrelative:programmingproject\\helpmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|c:\\users\\culli\\downloads\\programmingproject\\programmingproject\\programmingproject\\programmingproject\\programmingproject\\playervsplayergameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923CB777-9828-43B8-AB52-6D6F28A763AE}|ProgrammingProject\\ProgrammingProject.csproj|solutionrelative:programmingproject\\playervsplayergameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Leaderboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\Leaderboard.cs",
+              "RelativeDocumentMoniker": "ProgrammingProject\\Leaderboard.cs",
+              "ToolTip": "C:\\Users\\miche\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\Leaderboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\miche\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\Leaderboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:38:59.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamemodeSelection.cs",
+              "DocumentMoniker": "C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\GamemodeSelection.cs",
+              "RelativeDocumentMoniker": "ProgrammingProject\\GamemodeSelection.cs",
+              "ToolTip": "C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\GamemodeSelection.cs",
+              "RelativeToolTip": "ProgrammingProject\\GamemodeSelection.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:38:30.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GamemodeSelection.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\GamemodeSelection.cs",
+              "RelativeDocumentMoniker": "ProgrammingProject\\GamemodeSelection.cs",
+              "ToolTip": "C:\\Users\\miche\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\GamemodeSelection.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\miche\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\GamemodeSelection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:36:39.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelpMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\HelpMenu.cs",
+              "RelativeDocumentMoniker": "ProgrammingProject\\HelpMenu.cs",
+              "ToolTip": "C:\\Users\\miche\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\HelpMenu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\miche\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\HelpMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:07:56.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelpMenu.cs",
+              "DocumentMoniker": "C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\HelpMenu.cs",
+              "RelativeDocumentMoniker": "ProgrammingProject\\HelpMenu.cs",
+              "ToolTip": "C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\HelpMenu.cs",
+              "RelativeToolTip": "ProgrammingProject\\HelpMenu.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAewCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:16:46.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vsCPUGameboard.cs",
+              "DocumentMoniker": "C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\vsCPUGameboard.cs",
+              "RelativeDocumentMoniker": "ProgrammingProject\\vsCPUGameboard.cs",
+              "ToolTip": "C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\vsCPUGameboard.cs",
+              "RelativeToolTip": "ProgrammingProject\\vsCPUGameboard.cs",
+              "ViewState": "AgIAAJUCAAAAAAAAAAAIwLcCAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:40:21.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerVsPlayerGameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\PlayerVsPlayerGameBoard.cs",
+              "RelativeDocumentMoniker": "ProgrammingProject\\PlayerVsPlayerGameBoard.cs",
+              "ToolTip": "C:\\Users\\culli\\Downloads\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\ProgrammingProject\\PlayerVsPlayerGameBoard.cs",
+              "RelativeToolTip": "ProgrammingProject\\PlayerVsPlayerGameBoard.cs",
+              "ViewState": "AQIAAJQBAAAAAAAAAAAQwLYBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:03:05.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
