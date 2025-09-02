@@ -42,4 +42,4 @@ The program allows:
 - ----
 
 ## Reflection
-- This was my first experience of working on a programming project of a larger scale; starting from research to completion. This experience provided me with an insight and foundation into software development, problem solving and project management, and has allowed me to further understand the importance of validation for testing and debugging projects. I have since been able to apply the skills and knowledge I have gained when working on more recent projects when using Unity and Unreal Engine 5.
+- This was my first experience of working on a programming project of a larger scale; starting from research to completion. This experience provided me with an insight and foundation into software development, problem solving and project management, and has allowed me to further understand the importance of validation for testing and debugging projects. I have since been able to apply the skills and knowledge I have gained when working on more recent projects when using *Unity* and *Unreal Engine 5*.
