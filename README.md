@@ -27,7 +27,7 @@ The program allows:
 - Local multiplayer.
 - Scoring system with a functional leaderboard that displays the top ten highest scores.
 - Save and load functionality for long-term play.
-- A clear and simple user interface (UI)
+- A clear and simple user interface (UI).
 
 ----
 
