@@ -17,7 +17,7 @@ The program allows:
 - **File Handling**: I created a *saving and loading system* for each game mode and storing the leaderboard data.
 - **Sorting Algorithms**: I implemented an *Insertion Sort* to sort the players' scores, which are stored in *.txt files* and displayed on the leaderboard.
 - **Game Logic**: The game logic consists of: turn-based gameplay, firing hit and miss checking and tracking, generating CPU ships in random locations and allowing players to place their own ships.
-- **Object-oriented Programming (OOP)**: By using *encapsulation* and *reusable components*, I produced more efficient and robust code.
+- **Object-Oriented Programming (OOP)**: By using *encapsulation* and *reusable components*, I produced more efficient and robust code.
 - **Software**: Programmed in *C#* by using *Visual Studio*.
 
 ----
