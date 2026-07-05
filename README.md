@@ -43,3 +43,13 @@ The program allows:
 
 ## Reflection
 This was my first experience of working on a programming project of a larger scale; starting from research to completion. This experience provided me with an insight and foundation into software development, problem solving and project management, and has allowed me to further understand the importance of validation for testing and debugging projects. I have since been able to apply the skills and knowledge I have gained when working on more recent projects when using *Unity* and *Unreal Engine 5*.
+
+----
+
+## Used Assets & Credits
+
+Disclaimer: The project was developed for **educational and portfolio purposes only**. To my knowledge, all third-party assets used and their creators have been listed, with appropriate credit being given to the creators for their work. I **do not** claim any ownership of any third-party assets used. If there are any issues regarding the use of these assets or the credits, please contact me.
+
+### 2D Art
+- [**heart pixel art 32x32**](https://opengameart.org/content/heart-pixel-art) - By Flixberry Entertainment, licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) and [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+
