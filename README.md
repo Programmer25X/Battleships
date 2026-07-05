@@ -1,7 +1,7 @@
 # Battleships Project
 
 ## Overview
-As part of my **Computer Science A-Level**, I completed an extended programming project. This involved me having to conduct research about already existing products and then formulate my own designs. 
+As part of my **Computer Science A-Level**, I completed an extended programming project from June 2024 to March 2025. This involved me having to conduct research about already existing products and then formulate my own designs. 
 
 I decided to create a version of Battleships, which could be played on desktop PCs. By using a variety of different data structures, file handling and an Insertion Sort algorithm - I was able to create a version of Battleships. 
 
@@ -16,18 +16,32 @@ The program allows:
 - **Data Structures**: Implemented different *data structures* (including *2D arrays, lists and records*) to manage the players' ships, grids and turns
 - **File Handling**: Created a *saving and loading system* for each game mode and storing the leaderboard data
 - **Sorting Algorithms**: Implemented an *Insertion Sort* to sort the players' scores, which are stored in *.txt files* and displayed on the leaderboard
-- **Game Logic**: The game logic consists of: turn-based gameplay, firing hit and miss checking and tracking, generating CPU ships in random locations and allowing players to place their own ships.
+- **Game Logic**: The game logic consists of: turn-based gameplay, firing hit and miss checking and tracking, generating CPU ships in random locations and allowing players to place their own ships
 - **Object-Oriented Programming (OOP)**: By using *encapsulation* and *reusable components*, I produced more efficient and robust code
-- **Software**: Programmed in *C#* by using *Visual Studio*
 
 ----
 
-## Features
+## Current Features
 - Single-player vs CPU with AI logic
 - Local multiplayer
 - Scoring system with a functional leaderboard that displays the top ten highest scores
 - Save and load functionality for long-term play
 - A clear and simple user interface (UI)
+
+## Tools & Languages
+### Tools
+  - Visual Studio
+    
+### Languages
+  - C#
+
+----
+## Media
+<img width="1903" height="1060" alt="Screenshot 2026-07-05 161133" src="https://github.com/user-attachments/assets/8d2a58e5-e0a4-463b-aa3a-10b8ca51fe51" />
+<img width="1903" height="1060" alt="Battleships_Gameplay_2" src="https://github.com/user-attachments/assets/1c9f42b9-865b-4b0e-bd76-ab94effc87b0" />
+<img width="1919" height="1079" alt="Battleships_Leaderboard" src="https://github.com/user-attachments/assets/fc1160da-eb87-446e-bd40-ce6907df25d3" />
+
+
 
 ----
 
