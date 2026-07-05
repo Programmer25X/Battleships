@@ -1,4 +1,4 @@
-# Computer Science A-Level Battleships Project
+# Battleships Project
 
 ## Overview:
 As part of my **Computer Science A-Level**, I completed an extended programming project. This involved me having to conduct research about already existing products and then formulate my own designs. 
