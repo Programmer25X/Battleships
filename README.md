@@ -13,9 +13,9 @@ The program allows:
 ----
 
 ## Technical Details
-- **Data Structures**: I implemented different *data structures* (including *2D arrays, lists and records*) to manage the players' ships, grids and turns.
-- **File Handling**: I created a *saving and loading system* for each game mode and storing the leaderboard data.
-- **Sorting Algorithms**: I implemented an *Insertion Sort* to sort the players' scores, which are stored in *.txt files* and displayed on the leaderboard.
+- **Data Structures**: Implemented different *data structures* (including *2D arrays, lists and records*) to manage the players' ships, grids and turns.
+- **File Handling**: Created a *saving and loading system* for each game mode and storing the leaderboard data.
+- **Sorting Algorithms**: Implemented an *Insertion Sort* to sort the players' scores, which are stored in *.txt files* and displayed on the leaderboard.
 - **Game Logic**: The game logic consists of: turn-based gameplay, firing hit and miss checking and tracking, generating CPU ships in random locations and allowing players to place their own ships.
 - **Object-Oriented Programming (OOP)**: By using *encapsulation* and *reusable components*, I produced more efficient and robust code.
 - **Software**: Programmed in *C#* by using *Visual Studio*.
