@@ -1,5 +1,9 @@
 # Battleships Project
 
+<picture>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+</picture>
+
 ## Overview
 As part of my **Computer Science A-Level**, I completed an extended programming project from June 2024 to March 2025. This involved me having to conduct research about already existing products and then formulate my own designs. 
 
