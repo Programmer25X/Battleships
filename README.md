@@ -6,38 +6,38 @@ As part of my **Computer Science A-Level**, I completed an extended programming 
 I decided to create a version of Battleships, which could be played on desktop PCs. By using a variety of different data structures, file handling and an Insertion Sort algorithm - I was able to create a version of Battleships. 
 
 The program allows:
-- Players are able to play against the computer (CPU) or against another player (via local co-op). 
-- Players can compete to try to earn the highest score to earn their place on the leaderboard.
-- Players can save and load their games to continue unfinished games later.
+- Players are able to play against the computer (CPU) or against another player (via local co-op)
+- Players can compete to try to earn the highest score to earn their place on the leaderboard
+- Players can save and load their games to continue unfinished games later
 
 ----
 
 ## Technical Details
-- **Data Structures**: Implemented different *data structures* (including *2D arrays, lists and records*) to manage the players' ships, grids and turns.
-- **File Handling**: Created a *saving and loading system* for each game mode and storing the leaderboard data.
-- **Sorting Algorithms**: Implemented an *Insertion Sort* to sort the players' scores, which are stored in *.txt files* and displayed on the leaderboard.
+- **Data Structures**: Implemented different *data structures* (including *2D arrays, lists and records*) to manage the players' ships, grids and turns
+- **File Handling**: Created a *saving and loading system* for each game mode and storing the leaderboard data
+- **Sorting Algorithms**: Implemented an *Insertion Sort* to sort the players' scores, which are stored in *.txt files* and displayed on the leaderboard
 - **Game Logic**: The game logic consists of: turn-based gameplay, firing hit and miss checking and tracking, generating CPU ships in random locations and allowing players to place their own ships.
-- **Object-Oriented Programming (OOP)**: By using *encapsulation* and *reusable components*, I produced more efficient and robust code.
-- **Software**: Programmed in *C#* by using *Visual Studio*.
+- **Object-Oriented Programming (OOP)**: By using *encapsulation* and *reusable components*, I produced more efficient and robust code
+- **Software**: Programmed in *C#* by using *Visual Studio*
 
 ----
 
 ## Features
-- Single-player vs CPU with AI logic.
-- Local multiplayer.
-- Scoring system with a functional leaderboard that displays the top ten highest scores.
-- Save and load functionality for long-term play.
-- A clear and simple user interface (UI).
+- Single-player vs CPU with AI logic
+- Local multiplayer
+- Scoring system with a functional leaderboard that displays the top ten highest scores
+- Save and load functionality for long-term play
+- A clear and simple user interface (UI)
 
 ----
 
 ## Gained Skills
-- **Organisational Skills**: I planned, designed, implemented and tested my project, whilst ensuring to keep up-to-date with my other studies.
+- **Organisational Skills**: Planned, designed, implemented and tested my project, whilst ensuring to keep up-to-date with my other studies
 - **Computational Thinking**: To effectively use my time, I utilised computational methods including *decomposition, abstraction and visualisation*.
-- **Applying Sorting Algorithms**: I successfully implemented an *Insertion Sort* that was used for a real-world scenario.
-- **Effective Data Handling**: I effectively used different *data structures* and *file handling* to create different game modes and systems.
-- **Testing & Debugging**: Throughout the development process, I had to continuously debug and test my written code and handle any warnings or errors.
-- **Documentation**: I produced thorough documentation throughout the entire planning, design, implementation, testing and evaluation phases.
+- **Applying Sorting Algorithms**: Successfully implemented an *Insertion Sort* that was used for a real-world scenario
+- **Effective Data Handling**: Effectively used different *data structures* and *file handling* to create different game modes and systems
+- **Testing & Debugging**: Throughout the development process, I had to continuously debug and test my written code and handle any warnings or errors
+- **Documentation**: Produced thorough documentation throughout the entire planning, design, implementation, testing and evaluation phases
 
 ----
 
