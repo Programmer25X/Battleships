@@ -41,9 +41,12 @@ The program allows:
 
 ----
 ## Media
-<img width="1903" height="1060" alt="Screenshot 2026-07-05 161133" src="https://github.com/user-attachments/assets/8d2a58e5-e0a4-463b-aa3a-10b8ca51fe51" />
-<img width="1903" height="1060" alt="Battleships_Gameplay_2" src="https://github.com/user-attachments/assets/1c9f42b9-865b-4b0e-bd76-ab94effc87b0" />
-<img width="1919" height="1079" alt="Battleships_Leaderboard" src="https://github.com/user-attachments/assets/fc1160da-eb87-446e-bd40-ce6907df25d3" />
+<img width="1903" height="1060" alt="Player vs CPU Gameplay" src="https://github.com/user-attachments/assets/1c9f42b9-865b-4b0e-bd76-ab94effc87b0" />
+<caption>Player vs CPU Gamemode</caption>
+<img width="1901" height="1055" alt="Player vs Player Gameplay" src="https://github.com/user-attachments/assets/5e91b42a-5c69-4bed-8907-cd58b4c487bc" />
+<caption>Player vs Player Gamemode</caption>
+<img width="1919" height="1079" alt="Leaderboard" src="https://github.com/user-attachments/assets/fc1160da-eb87-446e-bd40-ce6907df25d3" />
+<caption>Local Leaderboard</caption>
 
 
 
