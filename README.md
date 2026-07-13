@@ -17,11 +17,11 @@ The program allows:
 ----
 
 ## Technical Details
-- **Data Structures**: Implemented different *data structures* (including *2D arrays, lists and records*) to manage the players' ships, grids and turns
-- **File Handling**: Created a *saving and loading system* for each game mode and storing the leaderboard data
-- **Sorting Algorithms**: Implemented an *Insertion Sort* to sort the players' scores, which are stored in *.txt files* and displayed on the leaderboard
+- **Data Structures**: Implemented different data structures (including 2D arrays, lists and records) to manage the players' ships, grids and turns
+- **File Handling**: Created a saving and loading system for each game mode and storing the leaderboard data
+- **Sorting Algorithms**: Implemented an Insertion Sort to sort the players' scores, which are stored in .txt files and displayed on the leaderboard
 - **Game Logic**: The game logic consists of: turn-based gameplay, firing hit and miss checking and tracking, generating CPU ships in random locations and allowing players to place their own ships
-- **Object-Oriented Programming (OOP)**: By using *encapsulation* and *reusable components*, I produced more efficient and robust code
+- **Object-Oriented Programming (OOP)**: By using encapsulation and reusable components, I produced more efficient and robust code
 
 ----
 
@@ -54,16 +54,16 @@ The program allows:
 
 ## Gained Skills
 - **Organisational Skills**: Planned, designed, implemented and tested my project, whilst ensuring to keep up-to-date with my other studies
-- **Computational Thinking**: To effectively use my time, I utilised computational methods including *decomposition, abstraction and visualisation*.
-- **Applying Sorting Algorithms**: Successfully implemented an *Insertion Sort* that was used for a real-world scenario
-- **Effective Data Handling**: Effectively used different *data structures* and *file handling* to create different game modes and systems
+- **Computational Thinking**: To effectively use my time, I utilised computational methods including decomposition, abstraction and visualisation.
+- **Applying Sorting Algorithms**: Successfully implemented an Insertion Sort that was used for a real-world scenario
+- **Effective Data Handling**: Effectively used different data structures and file handling to create different game modes and systems
 - **Testing & Debugging**: Throughout the development process, I had to continuously debug and test my written code and handle any warnings or errors
 - **Documentation**: Produced thorough documentation throughout the entire planning, design, implementation, testing and evaluation phases
 
 ----
 
 ## Reflection
-This was my first experience of working on a programming project of a larger scale; starting from research to completion. This experience provided me with an insight and foundation into software development, problem solving and project management, and has allowed me to further understand the importance of validation for testing and debugging projects. I have since been able to apply the skills and knowledge I have gained when working on more recent projects when using *Unity* and *Unreal Engine 5*.
+This was my first experience of working on a programming project of a larger scale; starting from research to completion. This experience provided me with an insight and foundation into software development, problem solving and project management, and has allowed me to further understand the importance of validation for testing and debugging projects. I have since been able to apply the skills and knowledge I have gained when working on more recent projects when using Unity and Unreal Engine 5.
 
 ----
 
