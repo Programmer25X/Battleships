@@ -5,9 +5,7 @@
 </picture>
 
 ## Overview
-As part of my **Computer Science A-Level**, I completed an extended programming project from June 2024 to March 2025. This involved me having to conduct research about already existing products and then formulate my own designs. 
-
-I decided to create a version of Battleships, which could be played on desktop PCs. By using a variety of different data structures, file handling and an Insertion Sort algorithm - I was able to create a version of Battleships. 
+ A version of Battleships created using Windows Forms and the C# programming language, which could be played on desktop PCs. 
 
 The program allows:
 - Players are able to play against the computer (CPU) or against another player (via local co-op)
